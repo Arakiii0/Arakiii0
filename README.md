@@ -31,6 +31,7 @@
     - 2022 (Rank:789/7024, Solved:7/61)
     - 2023 (Rank:1338/6483, Solved:15/74)
     - 2024 (Rank:1151/5694, Solved:15/67)
+    - 2025 (Rank:1031/8130, Solved:21/77)
   - DownunderCTF5 2024 (Rank:574/2134, Solved:10/66)
   - YBNCTF 2024 (Rank:35, Points:13451)
 
