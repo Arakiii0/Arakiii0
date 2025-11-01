@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b>Python</b>
+- <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
   - [Carpark Availability](https://github.com/Arakii0/Carpark_availability)
   - [Hashing project](https://github.com/Arakii0/All-Bout-HAsh)
 - <b>C</b>
   - [Building A Shell](https://github.com/Arakii0/Shell)
-- <b>Rust</b>
+- <a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
   - [Building An IOC File Scanner](https://github.com/Arakiii0/IOCScanner)
-- <b>C#</b>
+- <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
   - [Ice Cream Software](https://github.com/Arakii0/IceCream)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
