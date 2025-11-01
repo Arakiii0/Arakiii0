@@ -5,7 +5,7 @@
 - <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
   - [Carpark Availability](https://github.com/Arakii0/Carpark_availability)
   - [Hashing project](https://github.com/Arakii0/All-Bout-HAsh)
-- <b>C</b>
+- <a href="https://www.c-language.org/" title="C"><img src="icons/c.png" /></a>
   - [Building A Shell](https://github.com/Arakii0/Shell)
 - <a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
   - [Building An IOC File Scanner](https://github.com/Arakiii0/IOCScanner)
@@ -40,8 +40,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ArakiYeo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ArakiYeo | HTB" width="22px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3270009/hackthebox-icon-md.png" />][HackTheBox]
 
-[linkedin]: https://linkedin.com/in/arakiyeo
-[HackTheBox]: https://app.hackthebox.com/users/751712
+[![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/arakiyeo/)
+
