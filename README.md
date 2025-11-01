@@ -7,6 +7,8 @@
   - [Hashing project](https://github.com/Arakii0/All-Bout-HAsh)
 - <b>C</b>
   - [Building A Shell](https://github.com/Arakii0/Shell)
+- <b>Rust</b>
+  - [Building An IOC File Scanner](https://github.com/Arakiii0/IOCScanner)
 - <b>C#</b>
   - [Ice Cream Software](https://github.com/Arakii0/IceCream)
 
@@ -34,6 +36,7 @@
     - 2025 (Rank:1031/8130, Solved:21/77)
   - DownunderCTF5 2024 (Rank:574/2134, Solved:10/66)
   - YBNCTF 2024 (Rank:35, Points:13451)
+  - NHFCTF 2025 (Rank:9, Points:20266)
 
 <h2> 🤳 Connect with me:</h2>
 
