@@ -43,3 +43,4 @@
 [![HackTheBox](icons/htb.png)](https://app.hackthebox.com/users/751712)
 [![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/arakiyeo/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Arakiii0&color=blue)
