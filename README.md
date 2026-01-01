@@ -36,6 +36,7 @@
     - 2025 (Rank:1031/8130, Solved:21/77)
   - DownunderCTF5 2024 (Rank:574/2134, Solved:10/66)
   - YBNCTF 2024 (Rank:35, Points:13451)
+  - YBNCTF 2025 (Rank:16/177, Points:11278)
   - NHFCTF 2025 (Rank:9, Points:20266)
 
 <h2> 🤳 Connect with me:</h2>
